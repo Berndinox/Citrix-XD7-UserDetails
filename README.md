@@ -11,64 +11,62 @@ Get-CtxUser -CTXItems "ClientName","UserSid"
 
 
 ### Properties:
+•	SessionGUID
+•	UserLogonTime
+•	ClientAddressFamily
+•	ClientAddress
+•	INetClient
+•	EncryptionLevel
+•	ClientProductId
+•	SerialNumber
+•	HRes
+•	VRes
+•	ClientBuildNumber
+•	ClientHardwareId
+•	RDSCalId
+•	ClientName
+•	WorkDirectory
+•	ClientLicense
+•	ClientDirectory
+•	AudioDriverName
+•	WanScalersPresent
+•	NegotiatedColorDepth
+•	ColorDepth
+•	AppState
+•	AppStateChangeTime
+•	DomainName
+•	UserName
+•	InitialProgram
+•	PublishedName
+•	IsBrokered
+•	fPublishedApp
+•	CtxSessionKey
+•	SessionState
+•	IsAnonymousSession
+•	UserSid
+•	ConnectionMode
+•	SessionToLingerAfterLastApp
+•	ProtocolType
+•	UserShadowSettings
+•	OEMID
+•	ClientCodePage
+•	ClientVersion
+•	ClientType
+•	UIModuleVersionH
+•	UIModuleFlags
+•	UIFontSmoothing
+•	UIPreferredIconBPP
+•	KeyboardLayout
+•	WDICABUfferLength
+•	WDModuleVersionH
+•	WdFlag
+•	WdInputBufferLength
+•	WDName
+•	WdDLL
+•	PSPath
+•	PSParentPath
+•	PSChildName
+•	PSDrive
+•	PSProvider
 
-ConnectedViaIpAddress
-ConnectedViaIpAddressFamily
-SessionGUID
-UserLogonTime
-ClientAddressFamily
-ClientAddress
-INetClient
-EncryptionLevel
-ClientProductId
-SerialNumber
-HRes
-VRes
-ClientBuildNumber
-ClientHardwareId
-RDSCalId
-ClientName
-WorkDirectory
-ClientLicense
-ClientDirectory
-AudioDriverName
-WanScalersPresent
-NegotiatedColorDepth
-ColorDepth
-AppState
-AppStateChangeTime
-DomainName
-UserName
-InitialProgram
-PublishedName
-IsBrokered
-fPublishedApp
-CtxSessionKey
-SessionState
-IsAnonymousSession
-UserSid
-ConnectionMode
-SessionToLingerAfterLastApp
-ProtocolType
-UserShadowSettings
-OEMID
-ClientCodePage
-ClientVersion
-ClientType
-UIModuleVersionH
-UIModuleFlags
-UIFontSmoothing
-UIPreferredIconBPP
-KeyboardLayout
-WDICABUfferLength
-WDModuleVersionH
-WdFlag
-WdInputBufferLength
-WDName
-WdDLL
-PSPath
-PSParentPath
-PSChildName
-PSDrive
-PSProvider
 
