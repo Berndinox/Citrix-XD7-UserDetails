@@ -3,8 +3,11 @@ Powershell Script to get Details of current User
 
 ### Examples:
 Get-CtxUser
+
 Get-CtxUser -log 1 -CTXItems "ClientAddress"
+
 Get-CtxUser -CTXItems "ClientName","UserSid"
+
 
 ### Properties:
 
