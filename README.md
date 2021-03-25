@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 # Citrix-XD7-UserDetails
 Powershell Script to get Details of current User
 
